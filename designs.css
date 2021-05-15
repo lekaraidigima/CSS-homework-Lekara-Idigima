@@ -1,0 +1,47 @@
+.red  {
+    color: red;
+    text-align: center;
+}
+
+#para1 {
+    color: orange;
+    text-align: center;
+}
+
+#para2 {
+    color: orangered;
+    text-align: center;
+}
+
+#para3 {
+    color: peru;
+    text-align: center;
+}
+
+h3 {
+    color: navy;
+}
+
+h4 {
+    color: olivedrab;
+    text-align: center;
+}
+
+body {background-color: powderblue;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+  }
+
+.table2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
